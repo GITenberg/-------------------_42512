@@ -1,0 +1,32 @@
+_repo: '-------------------_42512'
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42512-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Palamas, Kostes
+    aliases:
+    - Palamas, Kostis
+    - Palamas, Costi
+    - Palamas, Costis
+    - Παλαμάς, Κωστής
+    birthdate: 1859
+    deathdate: 1943
+    gutenberg_agent_id: '26306'
+    url: http://www.gutenberg.org/2009/agents/26306
+    wikipedia: http://en.wikipedia.org/wiki/Kostis_Palamas
+description: ''
+gutenberg_issued: '2013-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42512'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Greek fiction, Modern'
+title: Θάνατος Παλληκαριού
+url: http://www.gutenberg.org/ebooks/42512
